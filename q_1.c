@@ -22,7 +22,7 @@ int main()
     }
     if(flag == 1)
     {
-        printf("Number found.\n");
+        printf("Number is not found.\n");
     }
     else
     {
